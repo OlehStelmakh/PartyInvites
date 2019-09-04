@@ -64,7 +64,7 @@ using ShopOnline.Models;
             WriteLiteral("\r\n<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(109, 386, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "92085984a4d44a24818b5fabca8ad2fd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "84a98680fc9f4d1b9d8624f6c2a929fb", async() => {
                 BeginContext(115, 373, true);
                 WriteLiteral(@"
     <meta name=""viewport"" content=""width=device-width"" />
@@ -90,7 +90,7 @@ using ShopOnline.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(497, 756, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "06f314ed22e0488bafacba48e912817d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "59fd2eda265c4b24ad501d54cbed42f2", async() => {
                 BeginContext(521, 383, true);
                 WriteLiteral(@"
     <div class=""panel-body"">

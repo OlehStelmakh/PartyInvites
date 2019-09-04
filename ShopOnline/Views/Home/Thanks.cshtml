@@ -11,16 +11,18 @@
     <title>Thanks</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
           integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/styles.css" />
 </head>
-<body class="text-center">
+<body class="text-center main-view">
     <p>
-        <h1>Thanks you, @Model.Name!</h1>
+        <h1 class="with-shadow-text">Thanks you, @Model.Name!</h1>
         @if (Model.WillAttend==true) {
-            @:It's a great that you're coming. The drinks are already in the fridge!
+            <h4 class="with-shadow-text">It's a great that you're coming. The drinks are already in the fridge!</h4>
         } else {
-            @:Sorry to hear that you can't make it, but thanks for letting us know.
+            <h4 class="with-shadow-text">Sorry to hear that you can't make it, but thanks for letting us know.</h4>
         }
+
     </p>
-    <p>Click <a asp-action="ListResponses">here</a> to see who is coming.</p>
+    <h5>Click <a asp-action="ListResponses">here</a> to see who is coming.</h5>
 </body>
 </html>
