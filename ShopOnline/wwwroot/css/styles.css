@@ -57,3 +57,13 @@ body {
 .white-text {
     color: #fff;
 }
+
+.table {
+    background: rgba(60, 60, 60, 0.3);
+    color: #fff;
+    margin-top: 30px;
+}
+
+.margin-text {
+    margin-top: 50px;
+}

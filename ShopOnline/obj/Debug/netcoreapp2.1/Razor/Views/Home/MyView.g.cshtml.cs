@@ -63,7 +63,7 @@ using ShopOnline.Models;
             WriteLiteral("\n<!DOCTYPE html>\n<html>\n");
             EndContext();
             BeginContext(48, 371, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "de5a799a40264202bb820bf6c4e65667", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a9a3df9d32c54615baf3e89c4aa69bd1", async() => {
                 BeginContext(54, 358, true);
                 WriteLiteral(@"
     <meta name=""viewport"" content=""width=device-width"" />
@@ -89,12 +89,12 @@ using ShopOnline.Models;
             WriteLiteral("\n");
             EndContext();
             BeginContext(420, 307, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e29bdfe3273040cdbe80b268e996b851", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "517a22f869c44bd19cb1425a89c28d5c", async() => {
                 BeginContext(426, 208, true);
                 WriteLiteral("\n    <div class=\"text-center main-view\">\n        <h1 class=\"with-shadow-text\">We\'re going to have an exciting party.</h1>\n        <h3 class=\"with-shadow-text\">And you are invited!</h3>\n        <br />\n        ");
                 EndContext();
                 BeginContext(634, 73, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a827d17704af48d1be792489e2e611a6", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d7e4fd31de164ca59efa84ca790be5bb", async() => {
                     BeginContext(695, 8, true);
                     WriteLiteral("RSVP NOW");
                     EndContext();

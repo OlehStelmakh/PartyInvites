@@ -36,7 +36,7 @@ namespace ShopOnline.Controllers
                 //TO DO
                 return View();
             }
-            
+
         }
 
         public ViewResult ListResponses()
