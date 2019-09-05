@@ -1,1 +1,1 @@
-![Image alt](https://github.com/OlehStelmakh/PartyInvites/blob/master/MainPage.jpg)
+![Image alt](github.com/OlehStelmakh/PartyInvites/blob/master/ShopOnline/MainPage.jpg)
