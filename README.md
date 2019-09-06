@@ -7,4 +7,4 @@ Web-application that can help you to invite you friends to the party. Created us
 
 ![Image alt](https://github.com/OlehStelmakh/PartyInvites/blob/master/ShopOnline/Thanks.png)
 
-![Image alt](https://github.com/OlehStelmakh/PartyInvites/blob/master/ShopOnline/List.png)
+![Image alt](https://github.com/OlehStelmakh/PartyInvites/blob/master/ShopOnline/ListResponses.png)
